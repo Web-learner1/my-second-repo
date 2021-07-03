@@ -6,6 +6,8 @@
    }
    .bangladesh p{
        color: green;
+       font-size: 15px;
+       font-style: oblique;
    }
 
    .india h2{
@@ -13,6 +15,8 @@
    }
    .india p{
        color: greenyellow;
+       font-size: 15px;
+       font-style: oblique;
    }
 
    .pakistan h2{
@@ -20,10 +24,14 @@
    }
    .pakistan p{
        color: green;
+       font-size: 15px;
+       font-style: oblique;
    }
    .china h2{
        color: yellow;
    }
    .china p{
        color: red;
+       font-size: 15px;
+       font-style: oblique;
    }
