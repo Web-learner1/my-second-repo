@@ -1,0 +1,29 @@
+   .background{
+    background-color: rgb(184, 183, 183);
+   }
+   .bangladesh h2{
+       color: red;
+   }
+   .bangladesh p{
+       color: green;
+   }
+
+   .india h2{
+       color: orange;
+   }
+   .india p{
+       color: greenyellow;
+   }
+
+   .pakistan h2{
+       color: white;
+   }
+   .pakistan p{
+       color: green;
+   }
+   .china h2{
+       color: yellow;
+   }
+   .china p{
+       color: red;
+   }
